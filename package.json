@@ -8,7 +8,9 @@
     "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -35,8 +37,5 @@
     "responsive"
   ],
   "author": "Vivek",
-  "license": "MIT",
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  }
+  "license": "MIT"
 }
