@@ -45,7 +45,7 @@ const About = () => {
             <div className="relative w-64 h-64">
               <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary to-secondary blur-xl opacity-20"></div>
               <img 
-  src="/VIVEK_IMAGE.png" 
+  src="/vivek-image.png" 
   alt="Vivek Kansal" 
   className="relative w-full h-full object-cover rounded-2xl border-4 border-slate-800"
 />
