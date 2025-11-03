@@ -35,5 +35,8 @@
     "responsive"
   ],
   "author": "Vivek",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
