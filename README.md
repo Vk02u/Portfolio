@@ -27,7 +27,7 @@
 
 ## 📸 Preview
 
-![Portfolio Preview](VIVEK_IMAGE.png)
+![Portfolio Preview](public/VIVEK_IMAGE.png)
 
 ---
 
